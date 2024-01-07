@@ -51,10 +51,10 @@ print(f"{random_items[6]}")
 #Christina is singing the words to a popular song that is usually sung at a baseball game. Can you finish the lyrics? "Take my out to the _______ _______!"
 print(f"{random_items[4]} {random_items[5]}")
 
-#Leslie is writing a story about her favorites sport. It involves a hoope, five players on each team, and a recognizabale orange ball with black stripes. Which sport is it?
+#Leslie is writing a story about her favorites sport. It involves a hoop, five players on each team, and a recognizabale orange ball with black stripes. Which sport is it?
 print(f"{random_items[0]} {random_items[4]}")
 
-#Julia just recieved one of the fresh loaves of bread from jean. Thanking him, she quickly puts the loaf she recieved in thsi item to keep it warm. Can you name the item?
+#Julia just recieved one of the fresh loaves of bread from jean. Thanking him, she quickly puts the loaf she recieved in this item to keep it warm. Can you name the item?
 print(f"{random_items[5]}")
 
 #Mario has a lot of board game and video games. Luckily, he can store most of them in this item to keep his room nice and clean! Name the item.
